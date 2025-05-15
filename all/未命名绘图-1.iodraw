@@ -113,7 +113,7 @@
           <mxGeometry x="207.5" y="337.5" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3sSCaH9_dXZYdoFnnu56-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Theor.Calc&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="185" y="430" width="105" height="20" as="geometry" />
+          <mxGeometry x="185" y="410" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3sSCaH9_dXZYdoFnnu56-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3sSCaH9_dXZYdoFnnu56-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -165,7 +165,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3sSCaH9_dXZYdoFnnu56-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="216.8" y="320" width="41.41" height="165" as="geometry" />
+          <mxGeometry x="216.8" y="300" width="41.41" height="165" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
