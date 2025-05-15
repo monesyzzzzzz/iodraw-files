@@ -115,12 +115,6 @@
         <mxCell id="3sSCaH9_dXZYdoFnnu56-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Theor.Calc&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="185" y="410" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3sSCaH9_dXZYdoFnnu56-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3sSCaH9_dXZYdoFnnu56-16">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="310" as="sourcePoint" />
-            <mxPoint x="238" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3sSCaH9_dXZYdoFnnu56-18" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;CNN&lt;/b&gt;&lt;/font&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;②&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="215" y="470" width="50" height="20" as="geometry" />
         </mxCell>
