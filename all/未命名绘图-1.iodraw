@@ -42,6 +42,9 @@
         <mxCell id="2KawMdClfGgfMhfErXIG-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Trans.R.R.Img&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="100" y="180" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="3sSCaH9_dXZYdoFnnu56-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2KawMdClfGgfMhfErXIG-8" target="3sSCaH9_dXZYdoFnnu56-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2KawMdClfGgfMhfErXIG-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;L.R. Img&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="200" y="160" width="80" height="20" as="geometry" />
         </mxCell>
