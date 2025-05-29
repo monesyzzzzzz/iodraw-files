@@ -35,7 +35,7 @@
           <mxGeometry x="-100.5" y="114" width="192" height="76" as="geometry" />
         </mxCell>
         <mxCell id="3LZJNG9G8-Wh6JKwoQTO-8" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;将图像对输入网络①，输出&lt;span data-end=&quot;349&quot; data-start=&quot;315&quot;&gt;视差（Disparity 0/1）和光流（Flow X/Y）&lt;/span&gt;，实现三维形变测量。&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="177" y="-73" width="193" height="131" as="geometry" />
+          <mxGeometry x="171" y="91" width="193" height="131" as="geometry" />
         </mxCell>
         <mxCell id="3LZJNG9G8-Wh6JKwoQTO-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -54,8 +54,8 @@
         </mxCell>
         <mxCell id="3LZJNG9G8-Wh6JKwoQTO-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4.79" y="-86" as="sourcePoint" />
-            <mxPoint x="4.79" y="-35" as="targetPoint" />
+            <mxPoint x="-5.21" y="52" as="sourcePoint" />
+            <mxPoint x="-5.21" y="103" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
