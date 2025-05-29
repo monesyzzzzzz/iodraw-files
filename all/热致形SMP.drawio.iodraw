@@ -25,7 +25,7 @@
             <mxPoint x="-86" y="214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="K9_xF0o5PmXImzQ-Y2Vo-8" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="K9_xF0o5PmXImzQ-Y2Vo-8" value="初始状态" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="-84" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
