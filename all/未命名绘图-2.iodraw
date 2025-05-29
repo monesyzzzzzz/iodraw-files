@@ -29,6 +29,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="s-jrd8HwUTcIcI5wep88-4" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="270" width="60" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
