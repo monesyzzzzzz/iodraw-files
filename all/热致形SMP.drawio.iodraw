@@ -13,6 +13,15 @@
             <mxPoint x="66" y="-62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="K9_xF0o5PmXImzQ-Y2Vo-2" value="" style="shape=tape;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="86" y="-119" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="K9_xF0o5PmXImzQ-Y2Vo-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8" y="139" as="sourcePoint" />
+            <mxPoint x="58" y="89" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
