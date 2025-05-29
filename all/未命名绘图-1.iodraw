@@ -4,8 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="3LZJNG9G8-Wh6JKwoQTO-0" value="利用&lt;strong data-end=&quot;156&quot; data-start=&quot;148&quot;&gt;特征匹配&lt;/strong&gt;左右图像间的&lt;strong data-end=&quot;180&quot; data-start=&quot;168&quot;&gt;二维仿射变换矩阵&lt;/strong&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-99" y="-158" width="217" height="75" as="geometry" />
+        <mxCell id="3LZJNG9G8-Wh6JKwoQTO-0" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;利用&lt;strong data-end=&quot;156&quot; data-start=&quot;148&quot;&gt;特征匹配&lt;/strong&gt;左右图像间的&lt;strong data-end=&quot;180&quot; data-start=&quot;168&quot;&gt;二维仿射变换矩阵&lt;/strong&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-99" y="-158" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
