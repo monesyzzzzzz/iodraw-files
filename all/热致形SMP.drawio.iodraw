@@ -26,15 +26,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="K9_xF0o5PmXImzQ-Y2Vo-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;初始状态&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="14" y="-86" width="100" height="40" as="geometry" />
+          <mxGeometry x="-8" y="-86" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K9_xF0o5PmXImzQ-Y2Vo-9" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;高温变形&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-70" y="-23" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K9_xF0o5PmXImzQ-Y2Vo-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;冷却固定为临时形状&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="14" y="77" width="100" height="40" as="geometry" />
+          <mxGeometry x="30" y="78" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K9_xF0o5PmXImzQ-Y2Vo-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;冷却固定&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="K9_xF0o5PmXImzQ-Y2Vo-11" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;加热恢复&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-26" y="171" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
