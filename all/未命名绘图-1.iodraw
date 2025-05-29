@@ -31,7 +31,7 @@
             <mxPoint x="-3.5" y="247" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3LZJNG9G8-Wh6JKwoQTO-7" value="实际视差由仿射计算的刚性视差与微小变形引起的视差组成；" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="3LZJNG9G8-Wh6JKwoQTO-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;实际视差由仿射计算的刚性视差与微小变形引起的视差组成&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100.5" y="267" width="192" height="76" as="geometry" />
         </mxCell>
       </root>
