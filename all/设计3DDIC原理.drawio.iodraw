@@ -61,7 +61,7 @@
         <mxCell id="3LZJNG9G8-Wh6JKwoQTO-14" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;将原始位移输入&lt;span data-end=&quot;117&quot; data-start=&quot;110&quot;&gt;网络②&lt;/span&gt;，通过&lt;span data-end=&quot;130&quot; data-start=&quot;120&quot;&gt;残差连接技术&lt;/span&gt;进行误差修正与优化&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="163.5" y="-234" width="215.5" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="3LZJNG9G8-Wh6JKwoQTO-15" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;最终输出高精度的三维位移场（&lt;span data-end=&quot;168&quot; data-start=&quot;159&quot;&gt;U、V、W&lt;/span&gt;）&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="3LZJNG9G8-Wh6JKwoQTO-15" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;最终输出高精度的&lt;font color=&quot;#ff0000&quot;&gt;三维位移场（&lt;span data-end=&quot;168&quot; data-start=&quot;159&quot;&gt;U、V、W&lt;/span&gt;）&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="163.5" y="-360" width="216.5" height="57" as="geometry" />
         </mxCell>
         <mxCell id="3LZJNG9G8-Wh6JKwoQTO-17" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
