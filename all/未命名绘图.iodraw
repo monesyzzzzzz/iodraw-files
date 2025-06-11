@@ -195,8 +195,8 @@
             <mxPoint x="240" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JHiOg_iqebXW_IACaqIO-15" value="Theor.Calc" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="400" width="100" height="30" as="geometry" />
+        <mxCell id="JHiOg_iqebXW_IACaqIO-15" value="CNN&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;①&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="440" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
