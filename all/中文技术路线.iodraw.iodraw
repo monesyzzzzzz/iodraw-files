@@ -208,7 +208,7 @@
         <mxCell id="JfQWdyASrNeGP85SQgsz-41" value="精细化后的UVW" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="500" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-42" value="校准标定参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JfQWdyASrNeGP85SQgsz-42" value="双目标定参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JfQWdyASrNeGP85SQgsz-42" target="JfQWdyASrNeGP85SQgsz-37" edge="1">
