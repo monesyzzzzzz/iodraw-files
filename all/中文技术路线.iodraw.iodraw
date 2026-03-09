@@ -45,10 +45,10 @@
         <mxCell id="JfQWdyASrNeGP85SQgsz-11" value="左参考图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="170" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-12" value="L.R.Img" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JfQWdyASrNeGP85SQgsz-12" value="左形变图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="190" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-13" value="L.C. Img" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JfQWdyASrNeGP85SQgsz-13" value="左形变图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="170" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-14" value="Trans.R.C.Img" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
