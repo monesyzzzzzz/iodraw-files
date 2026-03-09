@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mQ8qP_Mpw8e6IJs3i3FL">
-    <mxGraphModel dx="1562" dy="909" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1302" dy="758" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,10 +49,10 @@
           <mxGeometry x="210" y="190" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-13" value="左形变图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="170" width="80" height="20" as="geometry" />
+          <mxGeometry x="310" y="170" width="106" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-14" value="Trans.R.C.Img" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="190" width="80" height="20" as="geometry" />
+        <mxCell id="JfQWdyASrNeGP85SQgsz-14" value="变换后右形变图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="190" width="107" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.364;entryY=0.035;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JfQWdyASrNeGP85SQgsz-5" target="JfQWdyASrNeGP85SQgsz-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
