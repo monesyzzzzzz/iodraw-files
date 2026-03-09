@@ -258,6 +258,12 @@
         <mxCell id="Xbme_KRqQ5IzNmGSe9vZ-2" value="全场位移分布输出与测试结果分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="555" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="30hU49TbFKhx5RGN2Jte-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="585" as="sourcePoint" />
+            <mxPoint x="188" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
