@@ -49,7 +49,7 @@
           <mxGeometry x="210" y="190" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-13" value="左形变图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="170" width="106" height="20" as="geometry" />
+          <mxGeometry x="310" y="170" width="107" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-14" value="变换后右形变图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="190" width="107" height="20" as="geometry" />
@@ -96,7 +96,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-21" value="CNN&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;①&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JfQWdyASrNeGP85SQgsz-21" value="&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;卷积神经网络&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Times New Roman&quot;&gt;①&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JfQWdyASrNeGP85SQgsz-10" edge="1">
