@@ -205,7 +205,7 @@
             <mxPoint x="250" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-41" value="UVW" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JfQWdyASrNeGP85SQgsz-41" value="精细化后的UVW" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="500" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-42" value="校准标定参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
