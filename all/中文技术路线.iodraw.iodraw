@@ -13,13 +13,13 @@
         <mxCell id="JfQWdyASrNeGP85SQgsz-3" value="左形变图像" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="60" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-4" value="R.C. Img" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="60" width="60" height="20" as="geometry" />
+        <mxCell id="JfQWdyASrNeGP85SQgsz-4" value="右形变图像" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="60" width="78" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-5" value="Aff.Trans" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="87.5" y="120" width="85" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-6" value="Aff.Trans" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+        <mxCell id="JfQWdyASrNeGP85SQgsz-6" value="仿射变换" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="120" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JfQWdyASrNeGP85SQgsz-1" target="JfQWdyASrNeGP85SQgsz-5" edge="1">
