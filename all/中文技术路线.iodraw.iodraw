@@ -255,7 +255,7 @@
             <mxPoint x="249.57999999999998" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xbme_KRqQ5IzNmGSe9vZ-2" value="精细化后的UVW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xbme_KRqQ5IzNmGSe9vZ-2" value="全场位移分布输出与测试结果分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="570" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
