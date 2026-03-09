@@ -251,9 +251,12 @@
         </mxCell>
         <mxCell id="Xbme_KRqQ5IzNmGSe9vZ-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="181" y="506" as="sourcePoint" />
-            <mxPoint x="181" y="546" as="targetPoint" />
+            <mxPoint x="249.57999999999998" y="530" as="sourcePoint" />
+            <mxPoint x="249.57999999999998" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Xbme_KRqQ5IzNmGSe9vZ-2" value="精细化后的UVW" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="570" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
