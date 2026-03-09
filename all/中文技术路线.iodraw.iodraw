@@ -39,7 +39,7 @@
         <mxCell id="JfQWdyASrNeGP85SQgsz-9" value="左参考图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="170" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-10" value="Trans.R.R.Img" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JfQWdyASrNeGP85SQgsz-10" value="变换后右参考图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="190" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-11" value="L.C. Img" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
