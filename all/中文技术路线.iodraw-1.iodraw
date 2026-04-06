@@ -150,13 +150,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-92" y="409" width="62" height="34" as="geometry" />
+          <mxGeometry x="149" y="197" width="62" height="34" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-7" value="形状记忆聚合物试样表面制备散斑图案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1" y="397" width="112" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="pLRHtdWoXrXafxokrj7o-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pLRHtdWoXrXafxokrj7o-8" target="pLRHtdWoXrXafxokrj7o-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-8" value="热触发发生复杂形变" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="396.5" width="66" height="57" as="geometry" />
@@ -183,30 +180,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="468" y="464" as="sourcePoint" />
             <mxPoint x="518" y="414" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pLRHtdWoXrXafxokrj7o-15" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="202" y="425" as="sourcePoint" />
-            <mxPoint x="228" y="425" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pLRHtdWoXrXafxokrj7o-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pLRHtdWoXrXafxokrj7o-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="468" y="464" as="sourcePoint" />
-            <mxPoint x="134" y="426" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pLRHtdWoXrXafxokrj7o-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pLRHtdWoXrXafxokrj7o-6" target="pLRHtdWoXrXafxokrj7o-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="468" y="464" as="sourcePoint" />
-            <mxPoint x="-3" y="426" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pLRHtdWoXrXafxokrj7o-22" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pLRHtdWoXrXafxokrj7o-9" target="JfQWdyASrNeGP85SQgsz-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="179" y="269" as="sourcePoint" />
-            <mxPoint x="478" y="268.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-24" value="三维位移幅值S" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
