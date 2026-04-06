@@ -123,7 +123,7 @@
           <mxGeometry x="593" y="565" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="30hU49TbFKhx5RGN2Jte-3" value="三维非均匀度变化率 &lt;font face=&quot;Times New Roman&quot;&gt;ξ₃D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="465" y="631" width="100" height="30" as="geometry" />
+          <mxGeometry x="465" y="650" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="30hU49TbFKhx5RGN2Jte-4" value="三维形状恢复变化率 &lt;font face=&quot;Times New Roman&quot;&gt;ε₃D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="724" y="631" width="100" height="30" as="geometry" />
@@ -210,13 +210,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-24" value="三维位移幅值S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="593" y="631" width="100" height="30" as="geometry" />
+          <mxGeometry x="593" y="650" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.753;entryY=0.806;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JfQWdyASrNeGP85SQgsz-37" target="JfQWdyASrNeGP85SQgsz-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-26" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="513.5" y="595" width="262.5" height="29" as="geometry" />
+          <mxGeometry x="511.75" y="595" width="262.5" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
