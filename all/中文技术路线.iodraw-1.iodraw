@@ -4,29 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JfQWdyASrNeGP85SQgsz-14" value="变换后的右形变图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="190" width="113" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-21" value="特征提取&lt;div&gt;卷积神经网络&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="210" as="sourcePoint" />
-            <mxPoint x="230" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JfQWdyASrNeGP85SQgsz-14" target="JfQWdyASrNeGP85SQgsz-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360" y="230" as="sourcePoint" />
-            <mxPoint x="410" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="JfQWdyASrNeGP85SQgsz-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="210" as="sourcePoint" />
-            <mxPoint x="410" y="180" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JfQWdyASrNeGP85SQgsz-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -147,16 +126,6 @@
             <Array as="points">
               <mxPoint x="90" y="330" />
               <mxPoint x="130" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-47" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="81.25" y="245" as="sourcePoint" />
-            <mxPoint x="110" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="71.45" y="244.07" />
-              <mxPoint x="60" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
