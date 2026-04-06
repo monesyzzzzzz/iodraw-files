@@ -126,7 +126,7 @@
           <mxGeometry x="465" y="631" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="30hU49TbFKhx5RGN2Jte-4" value="三维形状恢复变化率 ε₃D" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="737" y="631" width="100" height="30" as="geometry" />
+          <mxGeometry x="724" y="631" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="537" y="395" width="28" height="60" as="geometry" />
@@ -208,6 +208,12 @@
             <mxPoint x="179" y="269" as="sourcePoint" />
             <mxPoint x="478" y="268.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pLRHtdWoXrXafxokrj7o-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="521" y="419" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pLRHtdWoXrXafxokrj7o-24" value="三维形状恢复变化率 ε₃D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="593" y="631" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
