@@ -99,13 +99,7 @@
           <mxGeometry x="200" y="500" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-42" value="双目标定参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="400" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JfQWdyASrNeGP85SQgsz-42" target="JfQWdyASrNeGP85SQgsz-37" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="420" as="sourcePoint" />
-            <mxPoint x="190" y="370" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="31" y="366" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-44" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.995;entryY=0.687;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JfQWdyASrNeGP85SQgsz-37" target="JfQWdyASrNeGP85SQgsz-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -117,17 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-45" value="仿射变换参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="245" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-46" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="JfQWdyASrNeGP85SQgsz-45" target="JfQWdyASrNeGP85SQgsz-37" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="330" as="sourcePoint" />
-            <mxPoint x="200" y="280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="90" y="330" />
-              <mxPoint x="130" y="380" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="31" y="444" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xbme_KRqQ5IzNmGSe9vZ-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
