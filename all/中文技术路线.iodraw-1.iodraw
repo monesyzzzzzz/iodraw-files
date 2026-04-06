@@ -162,10 +162,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-162" y="412" width="62" height="34" as="geometry" />
+          <mxGeometry x="-92" y="409" width="62" height="34" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-7" value="形状记忆聚合物试样表面制备散斑图案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-79" y="400" width="112" height="58" as="geometry" />
+          <mxGeometry x="-1" y="397" width="112" height="58" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-8" target="pLRHtdWoXrXafxokrj7o-9">
           <mxGeometry relative="1" as="geometry" />
@@ -199,8 +199,14 @@
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="204" y="425" as="sourcePoint" />
+            <mxPoint x="202" y="425" as="sourcePoint" />
             <mxPoint x="228" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pLRHtdWoXrXafxokrj7o-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="464" as="sourcePoint" />
+            <mxPoint x="518" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
