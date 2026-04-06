@@ -227,7 +227,7 @@
         <mxCell id="pLRHtdWoXrXafxokrj7o-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.546;exitY=0.501;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="556" y="474" as="sourcePoint" />
-            <mxPoint x="606" y="424" as="targetPoint" />
+            <mxPoint x="638" y="756.6666564941406" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
