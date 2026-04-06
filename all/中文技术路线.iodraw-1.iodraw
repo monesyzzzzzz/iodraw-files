@@ -95,7 +95,7 @@
             <mxPoint x="643" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-41" value="精细化后的三维位移分量U、V、W" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JfQWdyASrNeGP85SQgsz-41" value="精细化后的三维位移分量&lt;font face=&quot;Times New Roman&quot;&gt;U、V、W&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="593" y="510" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-42" value="双目标定参数" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -122,7 +122,7 @@
         <mxCell id="Xbme_KRqQ5IzNmGSe9vZ-2" value="全场位移分布输出与测试结果分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="593" y="565" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="30hU49TbFKhx5RGN2Jte-3" value="三维非均匀度变化率 ξ₃D" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="30hU49TbFKhx5RGN2Jte-3" value="三维非均匀度变化率 &lt;font face=&quot;Times New Roman&quot;&gt;ξ₃D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="631" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="30hU49TbFKhx5RGN2Jte-4" value="三维形状恢复变化率 &lt;font face=&quot;Times New Roman&quot;&gt;ε₃D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
