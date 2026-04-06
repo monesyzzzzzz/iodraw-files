@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="mQ8qP_Mpw8e6IJs3i3FL">
-    <mxGraphModel dx="1562" dy="1309" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1162" dy="1309" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,7 +156,7 @@
           <mxGeometry x="586.5" y="1" width="112" height="58" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-8" value="热触发发生复杂形变" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="609.5" y="80" width="66" height="57" as="geometry" />
+          <mxGeometry x="609.5" y="73" width="66" height="57" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-9" value="左、右工业相机同步采集参考态与复杂形变形态下的散斑图像" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="583" y="149" width="120" height="60" as="geometry" />
@@ -188,7 +188,13 @@
             <mxPoint x="366" y="329" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-JIRo3TSRdJqvHIlUKhH-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-8">
+        <mxCell id="-JIRo3TSRdJqvHIlUKhH-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-8" target="pLRHtdWoXrXafxokrj7o-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="316" y="379" as="sourcePoint" />
+            <mxPoint x="366" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JIRo3TSRdJqvHIlUKhH-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-7" target="pLRHtdWoXrXafxokrj7o-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="316" y="379" as="sourcePoint" />
             <mxPoint x="366" y="329" as="targetPoint" />
