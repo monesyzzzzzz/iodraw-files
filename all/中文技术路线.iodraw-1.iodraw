@@ -77,7 +77,7 @@
             <mxPoint x="643" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JfQWdyASrNeGP85SQgsz-37" value="初始三维位移场计算u,v,w" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JfQWdyASrNeGP85SQgsz-37" value="初始三维位移场计算&lt;font face=&quot;Times New Roman&quot;&gt;u,v,w&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="587" y="410" width="112" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JfQWdyASrNeGP85SQgsz-38" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -125,7 +125,7 @@
         <mxCell id="30hU49TbFKhx5RGN2Jte-3" value="三维非均匀度变化率 ξ₃D" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="631" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="30hU49TbFKhx5RGN2Jte-4" value="三维形状恢复变化率 ε₃D" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="30hU49TbFKhx5RGN2Jte-4" value="三维形状恢复变化率 &lt;font face=&quot;Times New Roman&quot;&gt;ε₃D&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="724" y="631" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;fontSize=12;" vertex="1" parent="1">
