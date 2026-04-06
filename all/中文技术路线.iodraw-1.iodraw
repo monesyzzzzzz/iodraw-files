@@ -173,8 +173,8 @@
         <mxCell id="pLRHtdWoXrXafxokrj7o-9" value="左、右工业相机同步采集参考态与复杂形变形态下的散斑图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pLRHtdWoXrXafxokrj7o-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="334" y="498" width="28" height="60" as="geometry" />
+        <mxCell id="pLRHtdWoXrXafxokrj7o-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="376" y="395" width="28" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
