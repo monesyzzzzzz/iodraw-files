@@ -140,7 +140,7 @@
         <mxCell id="30hU49TbFKhx5RGN2Jte-4" value="三维形状恢复变化率 ε₃D" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="269" y="621" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pLRHtdWoXrXafxokrj7o-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="pLRHtdWoXrXafxokrj7o-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="144" y="385" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
