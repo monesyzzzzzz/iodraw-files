@@ -167,8 +167,11 @@
         <mxCell id="pLRHtdWoXrXafxokrj7o-7" value="形状记忆聚合物试样表面制备散斑图案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-79" y="400" width="112" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="pLRHtdWoXrXafxokrj7o-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-8" target="pLRHtdWoXrXafxokrj7o-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-8" value="热触发发生复杂形变" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="109" y="396.5" width="66" height="57" as="geometry" />
+          <mxGeometry x="135" y="396.5" width="66" height="57" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-9" value="左、右工业相机同步采集参考态与复杂形变形态下的散斑图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="395" width="120" height="60" as="geometry" />
@@ -196,8 +199,8 @@
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="468" y="464" as="sourcePoint" />
-            <mxPoint x="518" y="414" as="targetPoint" />
+            <mxPoint x="204" y="425" as="sourcePoint" />
+            <mxPoint x="228" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
