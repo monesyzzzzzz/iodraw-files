@@ -176,16 +176,10 @@
         <mxCell id="pLRHtdWoXrXafxokrj7o-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=east;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="376" y="395" width="28" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pLRHtdWoXrXafxokrj7o-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-10" target="JfQWdyASrNeGP85SQgsz-42">
+        <mxCell id="pLRHtdWoXrXafxokrj7o-11" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="532" y="405" as="sourcePoint" />
             <mxPoint x="547" y="405" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pLRHtdWoXrXafxokrj7o-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-10" target="JfQWdyASrNeGP85SQgsz-45">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="542" y="415" as="sourcePoint" />
-            <mxPoint x="557" y="415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
