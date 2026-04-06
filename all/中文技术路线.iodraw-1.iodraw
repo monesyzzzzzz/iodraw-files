@@ -215,10 +215,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-JIRo3TSRdJqvHIlUKhH-6" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="351" y="395" width="44" height="61" as="geometry" />
+          <mxGeometry x="376" y="395" width="19" height="61" as="geometry" />
         </mxCell>
         <mxCell id="-JIRo3TSRdJqvHIlUKhH-12" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="346" y="289" width="128" height="126" as="geometry" />
+          <mxGeometry x="376" y="289" width="98" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
