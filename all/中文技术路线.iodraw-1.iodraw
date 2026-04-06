@@ -165,10 +165,10 @@
           <mxGeometry x="-162" y="412" width="62" height="34" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-7" value="形状记忆聚合物试样表面制备散斑图案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-79" y="400" width="112" height="58" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-8" value="热触发发生复杂形变" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="72" y="400" width="66" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
