@@ -168,7 +168,7 @@
           <mxGeometry x="-79" y="400" width="112" height="58" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-8" value="热触发发生复杂形变" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="72" y="400" width="66" height="57" as="geometry" />
+          <mxGeometry x="109" y="396.5" width="66" height="57" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-9" value="左、右工业相机同步采集参考态与复杂形变形态下的散斑图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="228" y="395" width="120" height="60" as="geometry" />
@@ -188,7 +188,13 @@
             <mxPoint x="518" y="414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pLRHtdWoXrXafxokrj7o-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="pLRHtdWoXrXafxokrj7o-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-10" target="JfQWdyASrNeGP85SQgsz-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="464" as="sourcePoint" />
+            <mxPoint x="518" y="414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pLRHtdWoXrXafxokrj7o-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="468" y="464" as="sourcePoint" />
             <mxPoint x="518" y="414" as="targetPoint" />
