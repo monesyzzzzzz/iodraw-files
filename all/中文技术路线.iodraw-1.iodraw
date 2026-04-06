@@ -150,10 +150,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-6" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="611.5" y="-51" width="62" height="34" as="geometry" />
+          <mxGeometry x="611.5" y="-56" width="62" height="34" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-7" value="形状记忆聚合物试样表面制备散斑图案" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="586.5" y="1" width="112" height="58" as="geometry" />
+          <mxGeometry x="586.5" y="-5" width="112" height="58" as="geometry" />
         </mxCell>
         <mxCell id="pLRHtdWoXrXafxokrj7o-8" value="热触发发生复杂形变" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="609.5" y="73" width="66" height="57" as="geometry" />
@@ -195,6 +195,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-JIRo3TSRdJqvHIlUKhH-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-7" target="pLRHtdWoXrXafxokrj7o-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="316" y="379" as="sourcePoint" />
+            <mxPoint x="366" y="329" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JIRo3TSRdJqvHIlUKhH-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pLRHtdWoXrXafxokrj7o-6" target="pLRHtdWoXrXafxokrj7o-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="316" y="379" as="sourcePoint" />
             <mxPoint x="366" y="329" as="targetPoint" />
