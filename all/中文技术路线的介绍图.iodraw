@@ -71,7 +71,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EZw7wLGs3UUKm7aH-RJW-0" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;对右相机图像进行仿射变换，减小左右视图差异。&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="558" y="-342" width="258" height="100" as="geometry" />
+          <mxGeometry x="558" y="-342" width="245" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="EZw7wLGs3UUKm7aH-RJW-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679.88" y="-238" as="sourcePoint" />
+            <mxPoint x="679.88" y="-187" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
