@@ -115,11 +115,11 @@
         <mxCell id="EZw7wLGs3UUKm7aH-RJW-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;扩充复杂形变回复测试实验&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-477" y="-182.5" width="245" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="EZw7wLGs3UUKm7aH-RJW-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;验证测试结果与指标准确性&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="EZw7wLGs3UUKm7aH-RJW-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;验证测试结果与指标合理性&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-477" y="-42.5" width="245" height="89" as="geometry" />
         </mxCell>
         <mxCell id="EZw7wLGs3UUKm7aH-RJW-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;基于指标数据对试样回复性能进行聚类分级，建立形状回复性能等级评价方法&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-475" y="243" width="245" height="89" as="geometry" />
+          <mxGeometry x="-477" y="101" width="245" height="89" as="geometry" />
         </mxCell>
         <mxCell id="EZw7wLGs3UUKm7aH-RJW-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
