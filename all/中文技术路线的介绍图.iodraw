@@ -79,8 +79,8 @@
             <mxPoint x="679.88" y="-187" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EZw7wLGs3UUKm7aH-RJW-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;以初始基准态图像为参考图像，以复杂形变及回复过程图像为目标图像，采用相关匹配方法识别同名特征点&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="552" y="-173" width="253" height="112" as="geometry" />
+        <mxCell id="EZw7wLGs3UUKm7aH-RJW-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;以初始基准态图像为参考图像，以复杂形变及回复过程图像为目标图像，识别特征点&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="552" y="-173" width="265" height="112" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
