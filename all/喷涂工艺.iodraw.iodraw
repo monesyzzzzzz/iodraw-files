@@ -13,7 +13,7 @@
             <mxPoint x="300" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSkJkTvtf7SdonEYnLiA-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;前处理&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;去毛刺清洁&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="BSkJkTvtf7SdonEYnLiA-2" value="&lt;div&gt;&lt;span style=&quot;font-size: 17px; background-color: initial;&quot;&gt;去毛刺清洁&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="302" y="89" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSkJkTvtf7SdonEYnLiA-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BSkJkTvtf7SdonEYnLiA-2" target="BSkJkTvtf7SdonEYnLiA-8" edge="1">
@@ -55,7 +55,7 @@
             <mxPoint x="489" y="129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BSkJkTvtf7SdonEYnLiA-17" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;烘烤固化&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="BSkJkTvtf7SdonEYnLiA-17" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;静电喷粉&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="653" y="188" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BSkJkTvtf7SdonEYnLiA-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BSkJkTvtf7SdonEYnLiA-15" target="BSkJkTvtf7SdonEYnLiA-17" edge="1">
